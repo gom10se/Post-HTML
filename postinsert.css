@@ -1,0 +1,529 @@
+.postinsert-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.postinsert-postinsert {
+  width: 100%;
+  height: 1031px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.postinsert-group24 {
+  top: 0px;
+  left: 0px;
+  width: 1720px;
+  height: 1031px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.postinsert-insertform {
+  top: 0px;
+  left: 0px;
+  width: 1720px;
+  height: 1031px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(0, 0, 0, 1);
+}
+.postinsert-content {
+  top: 0px;
+  left: 0px;
+  width: 860px;
+  height: 1031px;
+  position: absolute;
+  border-color: transparent;
+}
+.postinsert-content1 {
+  top: 0px;
+  left: 860px;
+  width: 860px;
+  height: 1031px;
+  position: absolute;
+  border-color: transparent;
+}
+.postinsert-text {
+  top: 478px;
+  left: 1043px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Consolas;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.postinsert-group23 {
+  top: 965px;
+  left: 0px;
+  width: 860px;
+  height: 72px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.postinsert-rectangle16 {
+  top: 0px;
+  left: 0px;
+  width: 860px;
+  height: 66px;
+  position: absolute;
+  border-color: transparent;
+}
+.postinsert-text02 {
+  top: 20px;
+  left: 24.94880485534668px;
+  color: rgba(255, 255, 255, 1);
+  width: 72px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Consolas;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.postinsert-group12 {
+  top: 14px;
+  left: 714px;
+  width: 119.72013854980469px;
+  height: 38px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(0, 34, 53, 1);
+}
+.postinsert-text04 {
+  top: 8px;
+  left: 21.512216567993164px;
+  color: rgba(255, 255, 255, 1);
+  width: 77px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Consolas;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.postinsert-group13 {
+  top: 14px;
+  left: 561px;
+  width: 131.32763671875px;
+  height: 36px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(42, 49, 53, 1);
+}
+.postinsert-text06 {
+  top: 9px;
+  left: 26.46156120300293px;
+  color: rgba(255, 255, 255, 1);
+  width: 77px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Consolas;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.postinsert-rectangle13 {
+  top: 149px;
+  left: 49px;
+  width: 102px;
+  height: 12px;
+  position: absolute;
+  border-color: transparent;
+}
+.postinsert-group20 {
+  top: 49px;
+  left: 49px;
+  width: 520px;
+  height: 83px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(217, 217, 217, 0);
+}
+.postinsert-text08 {
+  top: 8px;
+  left: 4px;
+  color: rgba(72, 71, 71, 1);
+  width: 516px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Consolas;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.postinsert-group21 {
+  top: 185px;
+  left: 49px;
+  width: 520px;
+  height: 33px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(217, 217, 217, 0);
+}
+.postinsert-text10 {
+  top: 2.6517856121063232px;
+  left: 4px;
+  color: rgba(72, 71, 71, 1);
+  width: 516px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Consolas;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.postinsert-group22 {
+  top: 235px;
+  left: 61px;
+  width: 582px;
+  height: 33px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.postinsert-rectangle14 {
+  top: 0px;
+  left: 0px;
+  width: 520px;
+  height: 33px;
+  position: absolute;
+  border-color: transparent;
+}
+.postinsert-text12 {
+  top: 3px;
+  left: 4px;
+  color: rgba(72, 71, 71, 1);
+  width: 34px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Consolas;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.postinsert-text14 {
+  top: 3px;
+  left: 73px;
+  color: rgba(72, 71, 71, 1);
+  width: 34px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Consolas;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.postinsert-text16 {
+  top: 3px;
+  left: 142px;
+  color: rgba(72, 71, 71, 1);
+  width: 34px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Consolas;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.postinsert-text18 {
+  top: 3px;
+  left: 211px;
+  color: rgba(72, 71, 71, 1);
+  width: 34px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Consolas;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.postinsert-text20 {
+  top: 3px;
+  left: 289px;
+  color: rgba(72, 71, 71, 1);
+  width: 34px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Consolas;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.postinsert-text21 {
+  top: 3px;
+  left: 323px;
+  color: rgba(72, 71, 71, 1);
+  width: 34px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: italic;
+  text-align: left;
+  font-family: Consolas;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.postinsert-text22 {
+  top: 3px;
+  left: 358px;
+  color: rgba(72, 71, 71, 1);
+  width: 34px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Consolas;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: line-through;
+}
+.postinsert-text23 {
+  top: 3px;
+  left: 414px;
+  color: rgba(72, 71, 71, 1);
+  width: 34px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Consolas;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: line-through;
+}
+.postinsert-text24 {
+  top: 3px;
+  left: 448px;
+  color: rgba(72, 71, 71, 1);
+  width: 45px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Consolas;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.postinsert-text26 {
+  top: 3px;
+  left: 537px;
+  color: rgba(72, 71, 71, 1);
+  width: 45px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Consolas;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.postinsert-vector6 {
+  top: 0px;
+  left: 267px;
+  width: 33px;
+  height: 0px;
+  position: absolute;
+}
+.postinsert-vector7 {
+  top: 0px;
+  left: 392px;
+  width: 33px;
+  height: 0px;
+  position: absolute;
+}
+.postinsert-rectangle15 {
+  top: 238px;
+  left: 559px;
+  width: 27px;
+  height: 27px;
+  position: absolute;
+  border-color: transparent;
+}
+.postinsert-vector12 {
+  top: 249.77957153320312px;
+  left: 561px;
+  width: 24px;
+  height: 11px;
+  position: absolute;
+}
+.postinsert-vector13 {
+  top: 252.5px;
+  left: 578.5px;
+  width: 3px;
+  height: 5px;
+  position: absolute;
+}
